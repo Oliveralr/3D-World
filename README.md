@@ -1,2 +1,2 @@
-# 3D-World
-Basic Three.js 3D World Render
+# 3D-World :world:
+Basic Three.js 3D World Render :octocat:
