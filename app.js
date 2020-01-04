@@ -1,3 +1,4 @@
+//ELEMENT RENDERING 
 let scene, camera, renderer;
 
 function init(){
@@ -44,4 +45,5 @@ function animate(){
     requestAnimationFrame(animate);
 }
 
+//Main Call Control
 init();
